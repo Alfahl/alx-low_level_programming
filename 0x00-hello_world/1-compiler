@@ -1,0 +1,2 @@
+#!/bsin/bash
+gcc -c $CFILE
