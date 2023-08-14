@@ -6,11 +6,11 @@
  */
 int main(void)
 {
-	char ana;
+	char numbers;
 
-	for (ana = 'a'; ana <= 'z'; ana++)
+	for (numbers = 0; numbers <= 9; numbers++)
 	{
-		putchar(ana + '0');
+		putchar(numbers + '0');
 	}
 	{
 		putchar('\n');
