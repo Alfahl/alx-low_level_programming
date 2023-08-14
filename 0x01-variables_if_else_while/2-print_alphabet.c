@@ -10,10 +10,10 @@ int main(void)
 
 	for (ana = 'a'; ana <= 'z'; ana++)
 	{
-		putcahr(ana);
+		putchar(ana);
 	}
 	{
-		puchar('\n');
+		putchar('\n');
 	}
 	return (0);
 }
