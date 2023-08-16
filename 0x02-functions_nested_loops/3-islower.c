@@ -2,6 +2,8 @@
 /**
  * _islower-fumction that i have made tod
  *
+ *@c: check input
+ *
  * Return: always 0
  */
 int _islower(int c)
